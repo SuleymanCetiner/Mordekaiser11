@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mordekaiser11
+- 👋 Hi, I’m @Adatascicandidate
 - 👀 I’m interested in Data Science,Data Analysis,Deep Learning,Machine Learning.
 - 🌱 I’m currently learning Streamlit.
 - 💞️ I’m looking to collaborate on a company that aims to develop models
